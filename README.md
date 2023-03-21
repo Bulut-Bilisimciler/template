@@ -1,4 +1,4 @@
-# ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/EN-center.png?raw=true)
+# ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/EN1-center.png?raw=true)
 
 **This repository provides a scenario template for the Bulut Bilisimciler platform, a community-driven space for learning and collaboration.**
 
