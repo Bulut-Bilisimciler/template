@@ -160,7 +160,7 @@ In the last step, we define the files we created in the **index.json** file. We 
     |__<b>README.md</b>
 </pre>
 
----
+<br/>
 
 ## How to Add Your Course to a Platform: Step-by-Step Guide
 
@@ -168,56 +168,57 @@ Bulut Bilisimciler is a popular online learning platform that focuses on cloud c
 
 - **Step 0: You Can Watch All Step From [YouTube](https://www.youtube.com/watch?v=k7X2-GLbCkg)**
 
-- **Step 1: Go to the Bulut Bilisimciler Website**
+- **Step 1: Go to the Bulut Bilisimciler Website**<br/>
 Open your web browser and go to the Bulut Bilisimciler website at https://bulutbilisimciler.com/.
 
-- **Step 2: Sign up or Log in**
+- **Step 2: Sign up or Log in**<br/>
 If you're a new user, click on the "Sign Up" button on the top right corner of the website to create a new account. Fill in the required information, such as your name, email address, and password. If you already have an account, click on the "Login" button and enter your credentials to log in.
 
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step1.png?raw=true)
-- **Step 3: Access the Instructor Dashboard**
+
+- **Step 3: Access the Instructor Dashboard**<br/>
 Once you're logged in, you'll be directed to your profile. If you're a new user, you may need to complete a profile setup process, including providing additional information about yourself and your expertise.
 
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step2.png?raw=true)
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step3.png?raw=true)
-- **Step 4: Click on "Create a New Course"**
+
+- **Step 4: Click on "Create a New Course"**<br/>
 In your instructor dashboard, click on the "Create a New Course" button or similar option. This will initiate the course creation process.
 
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step5.png?raw=true)
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step6.png?raw=true)
 
-- **Step 5: Provide Course Information**
+- **Step 5: Provide Course Information**<br/>
 Fill in the required course information, such as the course title, subtitle, and description. Be sure to provide a compelling description that clearly outlines what your course is about and what students will learn.
 
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step8.png?raw=true)
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step9.png?raw=true)
-**Step 6: Upload Course Content**
+
+**Step 6: Upload Course Content**<br/>
 Next, upload your course content, which may include video lessons, written materials, quizzes, assignments, and any other relevant resources. Bulut Bilisimciler supports various file formats, so you can upload your content in the format that best suits your course.
 
 ![Bulut Bilisimciler](https://github.com/Bulut-Bilisimciler/template/blob/master/assets/step7.png?raw=true)
-**Step 7: Customize Course Settings**
+**Step 7: Customize Course Settings**<br/>
 Customize your course settings, such as language, visibility, and other options. You can also set up coupons or discounts for your course if applicable.
 
-**Step 8: Preview Your Course**
+**Step 8: Preview Your Course**<br/>
 Before publishing your course, take the time to preview your course content and settings to ensure everything is accurate and complete. Use the preview feature provided by Bulut Bilisimciler to review your course from a student's perspective.
 
-**Step 9: Publish Your Course**
+**Step 9: Publish Your Course**<br/>
 Once you're satisfied with your course content and settings, click on the "Publish" button to make your course live on Bulut Bilisimciler. Your course will be reviewed by the platform to ensure it meets their quality standards.
 
----
+<br/>
+
 ## View of Files on the Platform
 
-- **Courses**
-![Scenarios](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/lesson.png?raw=true)
-- **Displaying Scenarios**
-![Scenarios](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/scenario_list.png?raw=true)
-- **Running the Scenario**
-![Specific Scenario](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/scenario_tab.png?raw=true)
-- **Scenario Start  (tr_intro.md)**
-![tr_intro.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_intro.md.png?raw=true)
-- **Scenario Steps (tr_step1.md)**
-![tr_step1.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_step1_top.png?raw=true)
-![tr_step1.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_step1_bottom.png?raw=true)
+**Courses**                | **Displaying Scenarios**
+:-------------------------:|:-------------------------:|
+![Scenarios](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/lesson.png?raw=true)|![Scenarios](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/scenario_list.png?raw=true)
 
-- **Scenario Finish (tr_finish.md)**
-![tr_finish.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_finish.md.png?raw=true)
+**Running the Scenario**   | **Scenario Start  (tr_intro.md)**
+:-------------------------:|:-------------------------:|
+![Specific Scenario](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/scenario_tab.png?raw=true)|![tr_intro.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_intro.md.png?raw=true)
+
+**Scenario Steps (tr_step1.md)**   | **Scenario Finish (tr_finish.md)**
+:-------------------------:|:-------------------------:|
+![tr_step1.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_step1_top.png?raw=true)|![tr_finish.md](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/tr_finish.md.png?raw=true)
