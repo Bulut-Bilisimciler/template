@@ -162,11 +162,11 @@ In the last step, we define the files we created in the **index.json** file. We 
 
 ---
 
-### How to Add Your Course to a Platform: Step-by-Step Guide
+## How to Add Your Course to a Platform: Step-by-Step Guide
 
 Bulut Bilisimciler is a popular online learning platform that focuses on cloud computing and related technologies. If you're an expert in this field and want to share your knowledge by adding your course to Bulut Bilisimciler, here's a step-by-step guide:
 
-You can watch from [YouTube](https://www.youtube.com/watch?v=k7X2-GLbCkg)
+- **Step 0: You Can Watch All Step From [YouTube](https://www.youtube.com/watch?v=k7X2-GLbCkg)**
 
 - **Step 1: Go to the Bulut Bilisimciler Website**
 Open your web browser and go to the Bulut Bilisimciler website at https://bulutbilisimciler.com/.
@@ -205,7 +205,7 @@ Before publishing your course, take the time to preview your course content and 
 Once you're satisfied with your course content and settings, click on the "Publish" button to make your course live on Bulut Bilisimciler. Your course will be reviewed by the platform to ensure it meets their quality standards.
 
 ---
-### View of Files on the Platform
+## View of Files on the Platform
 
 - **Courses**
 ![Scenarios](https://github.com/YunusEmreAlps/bb-scenario-template/blob/master/md_images/lesson.png?raw=true)
