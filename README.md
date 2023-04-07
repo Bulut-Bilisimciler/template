@@ -10,11 +10,12 @@ To use the scenario template, users can clone this repository and edit the templ
 
 ## Useful Links
 
-1. <https://github.com/katacoda/scenario-examples>
-2. <https://github.com/BenHall/katacoda-scenarios>
-3. <https://github.com/Leverege/kubernetes-book>
-4. <https://github.com/enkidevs/curriculum>
-5. <https://github.com/TheOdinProject/curriculum>
+1. <https://github.com/AlperRehaYAZGAN/bulut-bilisimciler-senaryolar>
+2. <https://github.com/katacoda/scenario-examples>
+3. <https://github.com/BenHall/katacoda-scenarios>
+4. <https://github.com/Leverege/kubernetes-book>
+5. <https://github.com/enkidevs/curriculum>
+6. <https://github.com/TheOdinProject/curriculum>
 
 The structure we use on the BB platform is the same with the links numbered 1 and 2. You can view sample scenarios via these links. The rest of the links are shared to help with the script writing.
 
